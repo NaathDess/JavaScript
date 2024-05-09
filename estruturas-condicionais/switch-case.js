@@ -21,3 +21,5 @@ function exibirInfoClasse(classe) {
                 console.log("Classe não reconhecida. Escolha entre Guerreiro, Mago ou Ladino");
     }
 }
+
+exibirInfoClasse("Mago")
